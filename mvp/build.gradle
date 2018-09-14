@@ -7,7 +7,7 @@ publish {
     artifactId = 'mvp'//项目名称
     publishVersion = '0.0.1'//版本号
     desc = 'mvp模式框架'//描述，不重要
-    website = 'https://github.com/guaixiangjieke/DevelopModules'//网站，最好有，不重要
+    website = 'https://github.com/guaixiangjieke/Mvp.git'//网站，最好有，不重要
     //gradlew clean build bintrayUpload -PbintrayUser=guaixiangjieke -PbintrayKey= -PdryRun=false
 }
 android {
