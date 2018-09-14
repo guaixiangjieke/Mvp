@@ -5,7 +5,7 @@ publish {
     userOrg = 'guaixiangjieke'//bintray.com用户名
     groupId = 'com.nl.mvp'//jcenter上的路径 组
     artifactId = 'mvp'//项目名称
-    publishVersion = '0.0.1'//版本号
+    publishVersion = '0.0.2'//版本号
     desc = 'mvp模式框架'//描述，不重要
     website = 'https://github.com/guaixiangjieke/Mvp.git'//网站，最好有，不重要
     //gradlew clean build bintrayUpload -PbintrayUser=guaixiangjieke -PbintrayKey= -PdryRun=false
